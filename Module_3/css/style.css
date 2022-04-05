@@ -31,10 +31,12 @@ body{
 	font-size: 30px;
 	text-align: center;
 }
-
+h1{
+	color: black;
+}
 h2{
 	text-align: center;
-}
+
 #foodNavbar ul li a {
 	color: white;
 }

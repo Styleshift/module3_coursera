@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: white;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.ourmenu{
+	font-size: 30px;
+	text-align: center;
+}
+h1{
+	color: black;
+}
+h2{
+	text-align: center;
+
+#foodNavbar ul li a {
+	color: white;
+}
+.navbar-brand{
+font-size: 30px;	
+}
